@@ -19,31 +19,25 @@ A custom dataset was created specifically for this project:
 
 42,237 images
 Extracted from 69 videos
-Multiple subjects
-Diverse lighting conditions and facial variations
-Two primary classes:
-Drowsy
-Alert
+
 Dataset Creation Pipeline
 Record videos of participants.
 Extract frames from videos.
 Label images into drowsy and alert categories.
 Preprocess images.
 Split into training, validation, and testing datasets.
-Tech Stack
-Programming Language
-Python
-Libraries and Frameworks
-TensorFlow
-Keras
-OpenCV
-NumPy
-Matplotlib
-Scikit-learn
-Deep Learning Models
-VGG
-DenseNet
-Hybrid VGG-DenseNet Architecture
-IoT Tools
-ThingSpeak
+
+Tech Stack - 
+Python, 
+Libraries and Frameworks, 
+TensorFlow, 
+Keras, 
+OpenCV, 
+NumPy, 
+Matplotlib, 
+VGG,
+DenseNet, 
+Hybrid VGG-DenseNet Architecture, 
+IoT Tools, 
+ThingSpeak, 
 Wokwi
